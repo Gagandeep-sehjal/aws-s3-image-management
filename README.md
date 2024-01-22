@@ -17,3 +17,5 @@ Description: Update an existing image in the AWS S3 bucket.
 
 Image Download By URL:
 Description: Download an existing image from the AWS S3 bucket.
+![library_home](https://github.com/Gagandeep-sehjal/aws-s3-image-management/assets/83236527/59f56a18-17e7-499a-94e2-8550a609dcf5)
+![library_detail](https://github.com/Gagandeep-sehjal/aws-s3-image-management/assets/83236527/7cd30bc6-bccc-41b1-a34f-562bf351c8cf)
